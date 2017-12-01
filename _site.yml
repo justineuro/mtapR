@@ -1,0 +1,36 @@
+name: "mtapR"
+resource_files:
+  - ./favicon.ico
+navbar:
+  title: "MTAP"
+  type: inverse
+  theme: cerulean
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Set1a"
+      href: Set1a.html
+    - text: "Set1b"
+      href: Set1b.html
+    - text: "Set1c"
+      href: Set1c.html
+  right:
+    - text: "View on GitHub"
+      icon: fa-github
+      href: https://github.com/justineuro/mtapR
+    - text: "GitHub Download (zip)"
+      icon: fa-download
+      href: https://github.com/justineuro/mtapR/archive/master.zip
+    - text: "(tar.gz)"
+      href: https://github.com/justineuro/mtapR/archive/master.tar.gz
+output: 
+  html_document: #github_pages
+    highlight: tango #textmate
+    theme: cerulean
+    includes:
+      in_header: include_head.html
+    toc: true
+    toc_float:
+      collapsed: false
+    mathjax: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  
