@@ -12,7 +12,7 @@ output:
 ## MTAP Reviewers and Sample Exams
 A repository of sample MTAP reviewers and past exams.    
 This project contains the files used for creating a web site using [Rmarkdown](http://rmarkdown.rstudio.com/) (`rmarkdown::render_site("SRCDIR")`).  A similar site rendered by [GitHub](https://github.bom/) is at [mtap](https://justineuro.github.io/mtap/).     
-Click at the following link to download the Android app from [GitHub](https://github.com/): [AdrMTAP.apk](https://justineuro.github.io/mtapR/AdrMTAP.apk).
+Click at the following link to download the Android app from [GitHub](https://github.com/): [AdrMTAP-v.1.0.0-pre-release.apk](https://github.com/justineuro/mtapR/releases/download/1.0.0-pre-release/AdrMTAP-v.1.0.0-pre-release.apk).
 
 The source for generating the app is available at [mtapR-src](https://justineuro.github.io/mtapR-src/).     
 
