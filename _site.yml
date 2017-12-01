@@ -33,4 +33,4 @@ output:
     toc_float:
       collapsed: false
     mathjax: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-  
+output_dir: "docs"
